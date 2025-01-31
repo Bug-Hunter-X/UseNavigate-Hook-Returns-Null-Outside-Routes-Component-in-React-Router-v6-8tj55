@@ -1,0 +1,1 @@
+This repository demonstrates a common error encountered when using the useNavigate hook in React Router v6.  The issue arises when the hook is used outside the context of a component that's a direct child of the Routes component.  The provided solution showcases how to correctly utilize the hook to avoid null return values and ensure smooth navigation.
